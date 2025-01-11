@@ -20,9 +20,6 @@ Basic knowledge of HTML and CSS.
 
 A code editor like Visual Studio Code or Sublime Text.
 
-
-git clone https://github.com/yourusername/starbucks-landing-page.git
-
 Open the project folder in your code editor.
 
 Open index.html in your browser to view the website.
