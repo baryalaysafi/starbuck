@@ -1,4 +1,5 @@
 # starbuck
+any one can see clone to click here on the link: https://baryalaysafi.github.io/starbuck/
 Pure CSS Starbucks Coffee Website Landing Page using HTML and Pure CSS
 Starbucks Landing Page
 
